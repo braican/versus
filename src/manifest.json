@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "short_name": "app",
+  "name": "Versus",
+  "short_name": "Versus",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
